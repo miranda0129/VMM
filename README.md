@@ -11,7 +11,7 @@ Demand Paging is implimented so when a Page Fault occurs, the page is read in fr
 
 The program will print out:
 logical address, physical address, value
-for each of addresses
+for each address
 
 and then output final statistics at the end:
 number of addresses calculated
