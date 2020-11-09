@@ -1,7 +1,7 @@
 # VMM
 Command line argument: ./a.out addresses.txt
 
-The C program created by myself and a few classmates, is a virtual memory manager that we made for a class project.  The program translates logical addresses to physical addresses (for a virtual address space of 2^16 bytyes)
+The C program created by myself and a few classmates, is a virtual memory manager that we made for our operating systems final project.  The program translates logical addresses to physical addresses (for a virtual address space of 2^16 bytyes)
 
 Logical addresses are contained in addresses.txt
 A TLB is used along with a page table
